@@ -1,0 +1,12 @@
+# LPC Sprite Sheet to Phaser 3 Atlas Generator
+# Requirements File
+# ==================
+# Install with: pip install -r requirements.txt
+
+# Core Image Processing
+opencv-python>=4.5.0          # Advanced image processing and transparency handling
+Pillow>=9.0.0                 # Image I/O and manipulation
+
+# Optional but recommended
+numpy>=1.21.0                 # Numerical operations (used by OpenCV)
+
